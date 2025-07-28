@@ -1,6 +1,6 @@
 # 🎬 Movie App
 
-A sleek and responsive Movie App built using **React.js**, **Appwrite**, **Tailwind CSS**, and **Vite**. Users can browse trending movies, search for titles, and explore content using the **TMDB API**. Designed with a clean, modern UI and structured for scalability, this app serves as a great full-stack project built from scratch.
+A sleek and responsive Movie App built using **React.js**, **Appwrite**, **Tailwind CSS**, and **Vite**. Users can browse trending movies, search for titles, and explore content using the **TMDB API**. Designed with a clean, modern UI and structured for scalability, this app serves as a great full-stack project built from scratch..
 
 ---
 
